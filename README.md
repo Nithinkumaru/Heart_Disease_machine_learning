@@ -89,6 +89,4 @@ Feel free to reach out for collaboration or questions!
 - **Email:** nithinkumaru32@outlook.com
 
 
---- 
 
-Enhance the README further by adding any custom visuals, such as charts of model performance or sample predictions, to give it an even more professional look!
