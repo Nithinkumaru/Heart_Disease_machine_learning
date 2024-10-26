@@ -1,6 +1,4 @@
-Here's a refined and attractive README for your heart disease prediction project:
 
----
 
 # Heart Disease Prediction System
 
